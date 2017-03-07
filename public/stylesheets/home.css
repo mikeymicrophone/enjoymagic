@@ -1,9 +1,19 @@
 #introduction {
   margin: 5%;
+  font-size: 1.5em;
   font-family: 'Josefin Sans', sans-serif;
 }
 
 #introduction p {
   padding: 10px;
-  font-size: 1.3em;
+}
+
+#introduction #stimulation {
+  padding-left: 110px;
+  font-size: 0.9em;
+}
+
+#introduction #teaser {
+  padding-left: 110px;
+  font-size: 1.25em;
 }
